@@ -25,20 +25,23 @@ import {
         <img
           src="/assets/WEB/HOME/Phone big 2 Icon.svg"
           height="20"
-          class="filter-white"
+          class="filter-gold"
         />
         <span class="fs-5 fw-bold">862-233-8330</span>
       </div>
 
-      <BNavbarBrand href="#">
-        <img
-          src="/assets/WEB/HOME/Logo Redeemed Header.png"
-          alt="Logo"
-          height="70"
-        />
-      </BNavbarBrand>
+      <!-- Wrapper for logo and toggle button with space between -->
+      <div class="d-flex justify-content-between align-items-center w-100">
+        <BNavbarBrand href="#">
+          <img
+            src="/assets/WEB/HOME/Logo Redeemed Header.png"
+            alt="Logo"
+            height="70"
+          />
+        </BNavbarBrand>
 
-      <BNavbarToggle target="nav-collapse" class="border-white" />
+        <BNavbarToggle target="nav-collapse" class="border-white" />
+      </div>
 
       <BCollapse id="nav-collapse" is-nav>
         <BNavbarNav class="ms-auto align-items-center gap-3">
@@ -124,10 +127,24 @@ import {
   filter: brightness(0) invert(1);
 }
 
+/* Filter for gold phone icon */
+.filter-gold {
+  filter: brightness(0) saturate(100%) invert(64%) sepia(98%) saturate(1000%)
+    hue-rotate(0deg) brightness(100%) contrast(101%);
+}
+
 @media (max-width: 991px) {
-  /* Add background on mobile so menu is readable */
+  /* Keep navbar transparent on mobile */
   .custom-navbar {
-    background-color: rgba(0, 0, 0, 0.9) !important;
+    background-color: transparent !important;
+  }
+
+  /* Add semi-transparent background to collapsed menu for readability */
+  :deep(.navbar-collapse) {
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin-top: 1rem;
   }
 }
 </style>
