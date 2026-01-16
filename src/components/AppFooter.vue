@@ -17,7 +17,7 @@ import { BContainer, BButton } from 'bootstrap-vue-next'
       <div class="d-flex justify-content-center align-items-center gap-2 mb-4">
         <img src="/assets/WEB/HOME/Location.svg" width="20" />
         <p class="mb-0">
-          16 Chestnut Avenue Suite 2, Emerson, New Jersey 07630
+          16 Chestnut Avenue Suite 3, Emerson, New Jersey 07630
         </p>
       </div>
     </BContainer>

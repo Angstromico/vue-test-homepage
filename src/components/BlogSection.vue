@@ -22,10 +22,14 @@ import {
             />
             <BCardBody class="text-center">
               <h5>Lorem Ipsum</h5>
-              <p class="text-muted small">July 2024</p>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p class="text-muted small">USA 06/17/2021</p>
+              <p>
+                Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting
+                Industry. Lorem Ipsum Has Been The Industry's Standard Dummy
+                Text Ever Since The 1500S,
+              </p>
               <BButton variant="outline-primary" size="sm" class="rounded-pill"
-                >Read More</BButton
+                >View More</BButton
               >
             </BCardBody>
           </BCard>

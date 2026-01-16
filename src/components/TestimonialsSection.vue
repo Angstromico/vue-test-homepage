@@ -15,14 +15,15 @@ import { BContainer, BRow, BCol, BCard, BButton } from 'bootstrap-vue-next'
               width="80"
             />
             <h5 class="fw-bold">Clara Smith</h5>
-            <p class="text-muted small">CEO - Any Company</p>
+            <p class="text-muted small mb-1">USA</p>
+            <p class="text-muted small">July, 12/07/2021</p>
             <hr />
             <p class="card-text">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Is simply dummy text of the printing and typesetting industry.
+              Lorem Ipsum has been the industry's standard dummy text.
             </p>
             <BButton variant="primary" size="sm" class="rounded-pill mt-3"
-              >Read More</BButton
+              >View More</BButton
             >
           </BCard>
         </BCol>

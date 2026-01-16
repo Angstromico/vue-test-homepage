@@ -8,17 +8,20 @@ import { BContainer, BRow, BCol } from 'bootstrap-vue-next'
       <BRow class="align-items-center">
         <BCol md="4">
           <h4 class="mb-0">Contact Us!</h4>
-          <small>Find out more about our services.</small>
+          <small
+            >There are many variations of passages of Lorem Ipsum but the
+            majority have suffered alteration.</small
+          >
         </BCol>
         <BCol md="8">
           <div class="input-group">
             <input
-              type="text"
+              type="email"
               class="form-control rounded-pill"
-              placeholder="Search..."
+              placeholder="Email here"
             />
             <button class="btn btn-primary rounded-pill ms-2" type="button">
-              Search
+              Send
             </button>
           </div>
         </BCol>

@@ -5,7 +5,13 @@ import { BContainer, BButton, BRow, BCol } from 'bootstrap-vue-next'
 <template>
   <section class="services-section py-5 text-center bg-light">
     <BContainer>
-      <h2 class="mb-5 fw-bold">SERVICES PROVIDED</h2>
+      <h2 class="mb-4 fw-bold">SERVICES PROVIDED</h2>
+
+      <p class="mb-5 mx-auto" style="max-width: 800px">
+        Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting
+        Industry. Lorem Ipsum Has Been The Industry's Standard Dummy Text Ever
+        Since The 1500S,
+      </p>
 
       <div
         class="services-layout position-relative d-none d-lg-block"
@@ -121,6 +127,13 @@ import { BContainer, BButton, BRow, BCol } from 'bootstrap-vue-next'
             <p class="fw-bold">Bookkeeping</p>
           </BCol>
         </BRow>
+
+        <div class="my-4">
+          <BButton variant="outline-primary" size="md" class="rounded-pill px-4"
+            >Learn More</BButton
+          >
+        </div>
+
         <img
           src="/assets/WEB/HOME/Services Provided Women.png"
           class="img-fluid my-4"
