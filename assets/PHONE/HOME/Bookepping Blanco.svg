@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="302" height="227" viewBox="0 0 302 227">
+  <defs>
+    <filter id="Rectángulo_167" x="0" y="0" width="302" height="227" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Bookepping_Blanco" data-name="Bookepping Blanco" transform="translate(3 6)">
+    <g transform="matrix(1, 0, 0, 1, -3, -6)" filter="url(#Rectángulo_167)">
+      <rect id="Rectángulo_167-2" data-name="Rectángulo 167" width="284" height="209" rx="24" transform="translate(3 6)" fill="#fff" opacity="0.78"/>
+    </g>
+    <text id="Bookepping" transform="translate(77 150)" fill="#225eac" font-size="21" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Bookepping</tspan></text>
+    <g id="tax_3_" data-name="tax (3)" transform="translate(121.983 42.337)">
+      <path id="Trazado_1566" data-name="Trazado 1566" d="M51.629,12.4V8.6h-1.9V4.8h-1.9V1h-33.2A6.652,6.652,0,0,0,8,7.649V53.244a6.652,6.652,0,0,0,6.639,6.649H53.526V12.4ZM47.835,6.7V8.6h-33.2a.95.95,0,0,1,0-1.9Zm-33.2-3.8h31.3V4.8h-31.3a2.85,2.85,0,0,0,0,5.7H49.732v1.9H14.639a4.749,4.749,0,0,1,0-9.5Zm36.99,55.094H14.639A4.751,4.751,0,0,1,9.9,53.244V12.3a6.616,6.616,0,0,0,4.742,2h36.99Z" transform="translate(-8 -1)" fill="#225eac"/>
+      <path id="Trazado_1567" data-name="Trazado 1567" d="M0,0,16.109-.012v1.9L0,1.9Z" transform="translate(16.395 47.771) rotate(-45)" fill="#225eac"/>
+      <path id="Trazado_1568" data-name="Trazado 1568" d="M27.845,44.7A2.85,2.85,0,1,0,25,41.85,2.851,2.851,0,0,0,27.845,44.7Zm0-3.8a.95.95,0,1,1-.948.95A.95.95,0,0,1,27.845,40.9Z" transform="translate(-8.876 -2.904)" fill="#225eac"/>
+      <path id="Trazado_1569" data-name="Trazado 1569" d="M35.845,47a2.85,2.85,0,1,0,2.845,2.85A2.851,2.851,0,0,0,35.845,47Zm0,3.8a.95.95,0,1,1,.948-.95A.95.95,0,0,1,35.845,50.8Z" transform="translate(-9.288 -3.305)" fill="#225eac"/>
+      <path id="Trazado_1570" data-name="Trazado 1570" d="M20.742,55.9H41.608a4.751,4.751,0,0,0,4.742-4.749v-11.4A4.751,4.751,0,0,0,41.608,35H20.742A4.751,4.751,0,0,0,16,39.749v11.4A4.751,4.751,0,0,0,20.742,55.9ZM17.9,39.749a2.851,2.851,0,0,1,2.845-2.85H41.608a2.851,2.851,0,0,1,2.845,2.85v11.4A2.851,2.851,0,0,1,41.608,54H20.742a2.851,2.851,0,0,1-2.845-2.85Z" transform="translate(-8.412 -2.704)" fill="#225eac"/>
+      <path id="Trazado_1571" data-name="Trazado 1571" d="M41.9,28.815l1.9-2.533,1.9,2.533V30.4h1.9V28.183L44.979,24.7l2.608-3.483V19h-1.9v1.583l-1.9,2.533-1.9-2.533V19H40v2.216L42.608,24.7,40,28.183V30.4h1.9Z" transform="translate(-9.649 -1.902)" fill="#225eac"/>
+      <path id="Trazado_1572" data-name="Trazado 1572" d="M29.9,28.5h3.794v1.9h1.9v-2.85L33.483,19H30.1l-2.076,8.319L28,30.4h1.9ZM32,20.9l1.423,5.7H30.163l1.423-5.7Z" transform="translate(-9.031 -1.902)" fill="#225eac"/>
+      <path id="Trazado_1573" data-name="Trazado 1573" d="M19.794,30.4h1.9V20.9h3.794V19H16v1.9h3.794Z" transform="translate(-8.412 -1.902)" fill="#225eac"/>
+    </g>
+  </g>
+</svg>

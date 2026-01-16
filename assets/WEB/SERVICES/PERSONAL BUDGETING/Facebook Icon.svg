@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="61" viewBox="0 0 62 61">
+  <g id="Facebook_Icon" data-name="Facebook Icon" transform="translate(0.041 -0.372)">
+    <g id="facebook-logo_1_" data-name="facebook-logo (1)" transform="translate(22.748 12.999)">
+      <path id="Trazado_63" data-name="Trazado 63" d="M136.7,11.712V8.632a6.787,6.787,0,0,1,.064-1.073,2.084,2.084,0,0,1,.293-.749,1.2,1.2,0,0,1,.737-.51,5.25,5.25,0,0,1,1.356-.141h3.08V0H137.31q-4.273,0-6.139,2.028T129.307,8v3.709h-3.688v6.16h3.687V35.744h7.4V17.872h4.923l.651-6.16Z" transform="translate(-125.619)" fill="#fff"/>
+    </g>
+    <g id="Elipse_16" data-name="Elipse 16" transform="translate(-0.041 0.372)" fill="none" stroke="#fff" stroke-width="1">
+      <ellipse cx="31" cy="30.5" rx="31" ry="30.5" stroke="none"/>
+      <ellipse cx="31" cy="30.5" rx="30.5" ry="30" fill="none"/>
+    </g>
+  </g>
+</svg>
