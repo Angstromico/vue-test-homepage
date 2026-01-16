@@ -10,7 +10,7 @@ import AppFooter from './components/AppFooter.vue'
 </script>
 
 <template>
-  <div>
+  <main style="width: 100vw">
     <AppNavbar />
     <HeroSection />
     <ServicesSection />
@@ -19,5 +19,5 @@ import AppFooter from './components/AppFooter.vue'
     <ContactBar />
     <BlogSection />
     <AppFooter />
-  </div>
+  </main>
 </template>
